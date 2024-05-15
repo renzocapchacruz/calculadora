@@ -10,11 +10,6 @@
     align-items: center;
 }
 
-span{
-    background-color: #e8f5fc;
-    color: #699ab6;
-}
-
 .container{
     height: 100vh;
     display: flex;

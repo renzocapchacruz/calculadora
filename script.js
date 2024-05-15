@@ -56,6 +56,14 @@ function pi() {
     result.value = Math.PI;
 }
 
+function sqrt() {
+    result.value = Math.sqrt(result.value);
+}
+
+function display(value) {
+  result.value += value;
+}
+
 function exp() {
     result.value = Math.exp(result.value);
 }
